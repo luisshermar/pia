@@ -1,0 +1,31 @@
+# Archivos del sistema
+*.log
+*.tmp
+*.bak
+*.ini
+*.lnk
+*.url
+
+# Carpetas personales
+AppData/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+Contacts/
+Favorites/
+Links/
+Searches/
+Saved Games/
+iCloudDrive/
+iCloudPhotos/
+
+# Otros
+.vscode/
+*.DAT*
+*.regtrans-ms
+*.blf
+*.TM*
+*.auth_token
+
